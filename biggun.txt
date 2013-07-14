@@ -1,0 +1,40 @@
+[check] Quad Rune		+(400X/[X+3])% damage.					(100,  160,  200,  229,  250 )
+[check]	Holy Freeze Rune	(3X/[X+3]) second length freeze every 3 seconds.	(0.8,  1.2,  1.5,  1.7,  1.9 )
+[check] Vampire Rune		(50X/[X+3])% steal life.				(12.5, 20,   25,   28.6, 31.3)
+[check]	Regen Rune		(3X/[X+3]) regen life per second.			(0.8,  1.2,  1.5,  1.7,  1.9 )
+[check]	Resilliance Rune	-(75X/[X+3])% damage taken.				(18.8, 30,   37.5, 42.9, 46.9)
+[check]	Cloaked Rune		(10-10X/[X+3]) seconds delay after shooting.		(7.5,  6,    5,    4.3,  3.8 )
+[check]	Thorns Rune		(50X/[X+3})% return damage.				(12.5, 20,   25,   28.6, 31.3)
+[check]	Autoaim Rune		(100X/[X+3])% chance to autoaim.			(25,   40,   50,   57.1, 62.5)
+[check]	Revenge Rune		Just stack them... let the extras carry over after you die once.
+	Weapon Mod Rune		+(100-100X/[X+3])% delay, adds SPECIAL!.		(75,   60,   50,   43.9, 37.5)
+
+SPECIAL!:
+Gore Shaft		Death Shaft.
+Mad Dog Tannon		Almost instant response...
+Chaingun		Triple innaccuracy, Double damage, Double shot.
+Bigass Shotgun		Extra shot with 900 innaccuracy.
+Pindicator		Triple shot.
+Fat Gun			Penetrates Invulnerability, lower delay to 0.3
+Auto Grenade		Sextuple shot.  Raise delay to 0.3
+Cluster Grenade		Double Shot, Self-safety.
+Blink Rocket		Bounce like SquidgY bombs.
+Scream Cannon		Goes homing after 1 second.
+Big Gun			4% chance to shoot Vaccuum lasting 3 seconds.
+Vaccuum Mortar		Double sucking radius... same pull though.
+Scrambled Eggs		One rocket is homing, uneffected by gravity too.
+Mad Gun			Double length of shots.
+Mega Head Bomb		Now like a remote grenade launcher.
+SquidgY Bomb		Make like Mad Gun, shoot an extra shot with 900 innaccuracy.
+Poison Gun		Stops people for 15 seconds.
+Homing Nail		20-Shot attack, 0.5 delay, 500 innaccuracy.
+Rain Gun		Acid Rain (poisons).
+Death Axe		+128 range.
+TK Axe			+26 base damage.
+Hunter Seeker		1% chance when shooting to kill 'target' instantly.
+SOS			Lower delay to 0.4 seconds.
+Disaster		Lightspeed projectile.
+
+[check]	Lower SOS delay to 1 second.
+[check]	Lower Vaccuum pull strength.
+Disaster throws out runes now, one per hit.

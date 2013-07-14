@@ -1,0 +1,40 @@
+Quad Rune		+(1600X/[X+15])% damage.				(400,	753,	1067,	1347,	1600	)
+Holy Freeze Rune	(3X/[X+1]) second length freeze every 3 seconds.	(1.5,	2,	2.25,	2.4,	2.5	)
+Vampire Rune		*(400X/[X+15])% steal life.				(25,	47.0,	67.5,	84,	100	)
+Regen Rune		(48X/[X+15]) regen life per second.			(3,	5.65,	8,	10.1,	12	)
+Resilliance Rune	-(90X/[X+1])% damage taken.				(45,	60,	67.5,	72,	75	)
+Cloaked Rune		*(30-30X/[X+1]) seconds delay after shooting.		(15,	7.5,	3.8,	---,	---	)
+Thorns Rune		*(400X/[X+15})% return damage.				(25,	47.0,	67.5,	84,	100	)
+Autoaim Rune		(100X/[X+3])% chance to autoaim.			(25,	
+Revenge Rune		(100X/[X+3])% chance to REVENGE!.			(25,	
+Weapon Mod Rune		*+(125-100X/[X+3])% delay, adds SPECIAL!.		(95,	
+
+SPECIAL!:
+[check]	Gore Shaft		Death Shaft.
+[check]	Mad Dog Tannon		Almost instant response...
+[check]	Chaingun		Triple innaccuracy, Double damage, Double shot.
+Bigass Shotgun		Pierces rune effects... somehow.... maybe?
+Pindicator		Triple shot.
+[check]	Fat Gun			Penetrates Invulnerability, lower delay to 0.3
+[check]	Auto Grenade		Sextuple shot.  Raise delay to 0.3
+[check]	Cluster Grenade		Double Shot, Self-safety.
+Blink Rocket		Bounce like SquidgY bombs, lasts 1 bounce.
+Scream Cannon		Goes homing after 0.8 seconds.
+Big Gun			4% chance to shoot Vaccuum lasting 3 seconds.
+Vaccuum Mortar		Double sucking radius... same pull though.
+Scrambled Eggs		One rocket is homing, uneffected by gravity too.
+[check]	Mad Gun			Double length of shots.
+[check]	Mega Head Bomb		Now like a remote grenade launcher.
+SquidgY Bomb		Make like Mad Gun, shoot an extra shot with 900 innaccuracy.
+Poison Gun		Stops people for 15 seconds.
+Homing Nail		20-Shot attack, 0.5 delay, 45 innaccuracy.
+Rain Gun		Acid Rain (poisons).
+[check]	Death Axe		+128 range.
+[check]	TK Axe			+26 base damage.
+[check]	Hunter Seeker		1% chance when shooting to kill 'target' instantly.
+[check]	SOS			Lower delay to 0.4 seconds.
+Disaster		Lightspeed projectile.
+Lazer			1% Chance a bounce'll auto-target.
+
+Disaster		Cannot Pick up runes!!!  Removes runes from the target.
+Vaccuum Mortar		Lower pull.
